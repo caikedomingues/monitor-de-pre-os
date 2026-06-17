@@ -1,0 +1,18 @@
+{
+    "https://lista.mercadolivre.com.br/pulseiras-masculinas?sb=all_mercadolibre#D[A:pulseiras%20masculinas]": {
+        "loja": "mercado livre (pulseiras)",
+        "preco": 40.0
+    },
+    "https://lista.mercadolivre.com.br/camisetas?sb=all_mercadolibre#D[A:camisetas]": {
+        "loja": "mercado livre (camisetas)",
+        "preco": 100.0
+    },
+    "https://www.netshoes.com.br/lst/calcado?mi=hm_ger_mntop_C_sub&psn=Menu_Top&genero=masculino": {
+        "loja": "netshoes (tenis masculinos)",
+        "preco": 179.9
+    },
+    "https://www.centauro.com.br/nav/genero/masculino#internal_utm_source=menu&internal_utm_campaign=homens&internal_utm_content=mainmenu": {
+        "loja": "centauro camisetas",
+        "preco": 400.0
+    }
+}
