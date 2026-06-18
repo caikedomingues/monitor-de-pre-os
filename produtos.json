@@ -1,18 +1,22 @@
 {
-    "https://lista.mercadolivre.com.br/pulseiras-masculinas?sb=all_mercadolibre#D[A:pulseiras%20masculinas]": {
-        "loja": "mercado livre (pulseiras)",
-        "preco": 40.0
+    "https://produto.mercadolivre.com.br/MLB-5318215486-kit-4-pulseira-couro-masculina-marrom-regulavel-bolinha-punk-_JM#intervention_type=full&searchVariation=187220636913&backend_model=search-backend&position=4&search_layout=grid&type=cart_intervention&tracking_id=702f9417-a3c6-4f37-9677-f47e8d7ba9bc": {
+        "loja": "mercado livre",
+        "produto": "pulseira de couro",
+        "preco": 25.0
     },
-    "https://lista.mercadolivre.com.br/camisetas?sb=all_mercadolibre#D[A:camisetas]": {
-        "loja": "mercado livre (camisetas)",
-        "preco": 100.0
+    "https://produto.mercadolivre.com.br/MLB-3848543993-camiseta-tradicional-de-algodo-banda-de-rock-sepultura-_JM?searchVariation=184841542449#polycard_client=search-desktop&be_origin=backend&searchVariation=184841542449&search_layout=grid&position=6&type=item&tracking_id=ce5441d6-9c84-4ec9-81ba-1d83f0f9ec8e&sid=search": {
+        "loja": "mercado livre",
+        "produto": "camiseta do sepultura",
+        "preco": 45.0
     },
-    "https://www.netshoes.com.br/lst/calcado?mi=hm_ger_mntop_C_sub&psn=Menu_Top&genero=masculino": {
-        "loja": "netshoes (tenis masculinos)",
-        "preco": 179.9
+    "https://www.netshoes.com.br/p/tenis-converse-chuck-taylor-all-star-cano-baixo-D26-0147-002": {
+        "loja": "netshoes",
+        "produto": "all stars",
+        "preco": 230.0
     },
-    "https://www.centauro.com.br/nav/genero/masculino#internal_utm_source=menu&internal_utm_campaign=homens&internal_utm_content=mainmenu": {
-        "loja": "centauro camisetas",
-        "preco": 400.0
+    "https://www.netshoes.com.br/p/jaqueta-corta-vento-resistente-a-agua-com-refletivos-e-bolso-invisivel-decole-unissex-1ST-0004-042": {
+        "loja": "netshoes",
+        "produto": "corta vento",
+        "preco": 110.0
     }
 }

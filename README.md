@@ -11,5 +11,8 @@ estão abaixo do valor definido pelo usuário.
 
 -> O sistema devera verificar os sites de 10 em 10 segundos.
 
+-> O sistema usara a inteligência artificial do gemini para coletar
+os elementos html de cada site
+
 -> O sistema deverá enviar um email para o usuário informando que o
 produto da página escolhida está abaixo do valor definido pelo usuário.
